@@ -37,8 +37,7 @@ Technologies Used
 Flutter - A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Hive - A lightweight and fast NoSQL database for local data storage.
 
-![alt text](https://drive.google.com/file/d/1SXWV5CZZf_wQl54rKZtCYuVimv2v_gp_/view?usp=drivesdk)
+![Delete](https://github.com/salahvk/listpro/assets/88548221/7589ae8d-047c-4e98-b20e-b6c285cd04bb)
+![List](https://github.com/salahvk/listpro/assets/88548221/16e54a1c-559c-4b58-bbc6-8d7803bb161c)
+![Add](https://github.com/salahvk/listpro/assets/88548221/649adb01-3bb0-4587-af72-04d772c2846b)
 
-![alt text](https://drive.google.com/file/d/1Scw70-HtQmI_9APE8DidLZqa7-W4IR_z/view?usp=drivesdk)
-
-![alt text](https://drive.google.com/file/d/1Seo46Cr48isqzmotktvfp1rcmL97DsBu/view?usp=drivesdk)
